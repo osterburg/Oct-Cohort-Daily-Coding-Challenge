@@ -2,7 +2,7 @@
 
 #### Most Recent Update: Friday, April 12 -- 8:30 AM EST
 
-### Friday, April 12, 2019 -- 9:00 AM
+## Friday, April 12, 2019 -- 9:00 AM
 *Posted by [Andrew Wester](https://github.com/steeznation16) on Friday, April 12 at 9:00 AM*
 
 *Credit to the [Daily Coding Problem](https://www.dailycodingproblem.com/) on their website on Friday morning*
@@ -23,7 +23,7 @@ What if, instead of being able to climb 1 or 2 steps at a time, you could climb 
 
 
 
-### Friday, April 12, 2019 -- 8:30 AM
+## Friday, April 12, 2019 -- 8:30 AM
 *Posted by [Andrew Wester](https://github.com/steeznation16) on Friday, April 12 at 8:30 AM*
 
 Today's question was posted on Slack yesterday by [Stephan](https://github.com/osterburg)
@@ -36,7 +36,7 @@ For Example: Given the array A = [10, 15, 3, 7], and K = 17, `solution(A, K)` sh
 
 **BONUS:** Can you do this in one pass?
 
-### Thursday, April 11, 2019
+## Thursday, April 11, 2019
 *Posted by [Andrew Wester](https://github.com/steeznation16)) on Friday, April 12 at 8:15 AM*
 
 This question is from a coding challenge that [Andrew](https://github.com/steeznation16) had the other day as part of applying for a job.  The question was hosted through [Codility](https://app.codility.com/programmers/) which has many interesting challenges available.
