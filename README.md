@@ -2,6 +2,15 @@
 
 #### Most Recent Update: Friday, April 12 -- 8:30 AM EST
 
+## Saturday, April 13, 2019
+*Posted by [Andrew Wester](https://github.com/steeznation16) on Friday, April 12, at 11:30 AM*
+
+*Credit to [Rafael Carrasco](https://github.com/erdosn) for posting in Slack*
+
+Some interesting data science interview questions that I’ve faced are:
+1) How would I design a function that takes in a string (mathematical) and solves the expression
+2) Given a list of words write a loop to find anagrams in the list. Ex: `anagram_finder(['bat', 'tab', 'cat', 'this', that']) -> ['bat', 'tab']`
+
 ## Friday, April 12, 2019 -- 9:00 AM
 *Posted by [Andrew Wester](https://github.com/steeznation16) on Friday, April 12 at 9:00 AM*
 
