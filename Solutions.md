@@ -8,7 +8,6 @@
 ---
 ---
 
-<a name="4/12/19"/>
 ## Friday, April 12, 2019 -- 9:00 AM
 ### Solution Posted Friday, April 12, 2019 -- 9:45 AM
 
