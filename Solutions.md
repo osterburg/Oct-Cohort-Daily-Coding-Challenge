@@ -3,12 +3,12 @@
 ---
 
 ## Table of Contents  
-[Friday, April 12, 2019](#4/12/19)
+[Friday, April 12, 2019](#friday-april-12)
 
 ---
 ---
 
-## Friday, April 12, 2019 -- 9:00 AM
+## Friday, April 12, 2019 -- 9:00 AM <a class="anchor" id="friday-april-12"></a>
 ### Solution Posted Friday, April 12, 2019 -- 9:45 AM
 
 It's always good to start off with some test cases. Let's start with small cases and see if we can find some sort of pattern.
