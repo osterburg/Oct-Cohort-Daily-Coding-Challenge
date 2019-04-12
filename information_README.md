@@ -7,3 +7,5 @@ I take responsibility for the quality of this GitHub Repo, as well as the questi
 
 ### Members of this repo currently are:
 - [Andrew Wester](https://github.com/steeznation16/)
+- [Emily Cain](https://github.com/MagicMilly)
+- [Chris Remmel](https://github.com/calremmel)
