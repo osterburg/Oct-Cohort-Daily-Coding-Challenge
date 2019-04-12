@@ -43,6 +43,8 @@ This question is from a coding challenge that [Andrew](https://github.com/steezn
 
 **Question:**
 
-You are given a bag of coins, and asked to flip each coin and record the results in an array, where 0 is Heads, and 1 is Tails.  The array has a length of N, and values will only be 0 or 1.  Write a function `solution(A)` where, given the array (A), you calculate the least number of coins that need to be flipped over in order to make all coins in the array the same.
+You are given a bag of coins, and asked to flip each coin and record the results in an array, where 0 is Heads, and 1 is Tails.  The array has a length of N, and values will only be 0 or 1.  
+
+Write a function `solution(A)` where, given the array (A), you calculate the least number of coins that need to be flipped over in order to make all coins in the array the same.
 
 For Example: Given the array A = [1, 0, 1, 1, 1, 0, 0, 1, 1, 0], `solution(A)` should return `4`, since there were 4 Heads recorded and 6 Tails.  Thus, the 4 Heads would need to be flipped to Tails in order for all 10 coins to show Tails.
