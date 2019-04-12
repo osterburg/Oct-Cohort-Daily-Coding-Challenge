@@ -3,46 +3,12 @@
 ---
 
 ## Table of Contents  
-[Friday, April 12, 2019](#headers)
+[Friday, April 12, 2019](#4/12/19)
 
+---
+---
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<a name="headers"/>
+<a name="4/12/19"/>
 ## Friday, April 12, 2019 -- 9:00 AM
 ### Solution Posted Friday, April 12, 2019 -- 9:45 AM
 
@@ -78,3 +44,5 @@ Each entry cache[i] will contain the number of ways we can get to step i with th
 <center><img src='Solutions_IMG/Solution 1 - Pic 4.png'>
 
 This now takes O( N * |X| ) time and O( N ) space.
+
+---
