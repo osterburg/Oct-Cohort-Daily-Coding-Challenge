@@ -12,22 +12,29 @@
 ---
 
 ## Monday, April 15, 2019 <a class="anchor" id="monday-april-15"></a>
+### Solution Posted:
+#### Solution Posted & Formatted By:
 
 ---
 ---
 
 ## Sunday, April 14, 2019 <a class="anchor" id="sunday-april-14"></a>
+### Solution Posted:
+#### Solution Posted & Formatted By:
 
 ---
 ---
 
 ## Saturday, April 13, 2019 <a class="anchor" id="saturday-april-13"></a>
+### Solution Posted:
+#### Solution Posted & Formatted By:
 
 ---
 ---
 
 ## Friday, April 12, 2019 -- 9:00 AM <a class="anchor" id="friday-april-12"></a>
 ### Solution Posted Friday, April 12, 2019 -- 9:45 AM
+#### Solution Posted & Formatted By: [Andrew Wester](https://github.com/steeznation16)
 
 It's always good to start off with some test cases. Let's start with small cases and see if we can find some sort of pattern.
 
