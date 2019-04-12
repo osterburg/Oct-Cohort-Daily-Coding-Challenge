@@ -6,8 +6,9 @@
 - [Monday, April 15, 2019](#monday-april-15)
 - [Sunday, April 14, 2019](#sunday-april-14)
 - [Satuday, April 13, 2019](#saturday-april-13)
-- [Friday, April 12, 2019.2](#friday-april-12-2)
-- [Friday, April 12, 2019.1](#friday-april-12-1)
+- [Friday, April 12, 2019 11:30am](#friday-april-12-3)
+- [Friday, April 12, 2019 9:00am](#friday-april-12-2)
+- [Friday, April 12, 2019 8:30am](#friday-april-12-1)
 - [Thursday, April 11, 2019](#thursday-april-11)
 
 ---
@@ -30,6 +31,13 @@
 ## Saturday, April 13, 2019 <a class="anchor" id="saturday-april-13"></a>
 ### Solution Posted:
 #### Solution Posted & Formatted By:
+
+---
+---
+
+## Friday, April 12, 2019 -- 11:30 AM <a class="anchor" id="friday-april-12-3"></a>
+### Solution Posted:
+#### Solution Posted & Formatted By: 
 
 ---
 ---
