@@ -1,3 +1,48 @@
+# SOLUTIONS:
+### Here are the solutions as recorded online when available
+---
+
+## Table of Contents  
+[Friday, April 12, 2019](#headers)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a name="headers"/>
 ## Friday, April 12, 2019 -- 9:00 AM
 ### Solution Posted Friday, April 12, 2019 -- 9:45 AM
 
