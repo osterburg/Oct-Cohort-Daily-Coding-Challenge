@@ -1,6 +1,6 @@
 # Daily Challenges Posted Here
 
-#### Most Recent Update: Friday, April 12 -- 8:30 AM EST
+#### Most Recent Update: Friday, April 12 -- 12:00 PM EST
 
 ## Saturday, April 13, 2019
 *Posted by [Andrew Wester](https://github.com/steeznation16) on Friday, April 12, at 11:30 AM*

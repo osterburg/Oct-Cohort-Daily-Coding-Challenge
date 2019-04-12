@@ -6,7 +6,9 @@
 - [Monday, April 15, 2019](#monday-april-15)
 - [Sunday, April 14, 2019](#sunday-april-14)
 - [Satuday, April 13, 2019](#saturday-april-13)
-- [Friday, April 12, 2019](#friday-april-12)
+- [Friday, April 12, 2019.2](#friday-april-12-2)
+- [Friday, April 12, 2019.1](#friday-april-12-1)
+- [Thursday, April 11, 2019](#thursday-april-11)
 
 ---
 ---
@@ -32,7 +34,7 @@
 ---
 ---
 
-## Friday, April 12, 2019 -- 9:00 AM <a class="anchor" id="friday-april-12"></a>
+## Friday, April 12, 2019 -- 9:00 AM <a class="anchor" id="friday-april-12-2"></a>
 ### Solution Posted Friday, April 12, 2019 -- 9:45 AM
 #### Solution Posted & Formatted By: [Andrew Wester](https://github.com/steeznation16)
 
@@ -70,3 +72,57 @@ Each entry cache[i] will contain the number of ways we can get to step i with th
 This now takes O( N * |X| ) time and O( N ) space.
 
 ---
+
+## Friday, April 12, 2019 -- 8:30 AM <a class="anchor" id="friday-april-12-1"></a>
+### Solution Posted Friday, April 12, 2019 -- 12:00 PM
+#### Solution Posted & Formatted By: [Andrew Wester](https://github.com/steeznation16)
+#### Solution Credit to [Stephan](https://github.com/osterburg) for posting in Slack
+
+The official solution was posted by [Stephan](https://github.com/osterburg) in the group slack channel on Friday, April 12.  
+
+```python
+def solution(A, K):
+    seen = set()
+    for num in A:
+        if K - num in seen:
+            return True
+        seen.add(num)
+    return False
+```
+
+Other solutions solved by students from the [Flatiron School's Online Immersive Data Science Bootcamp](https://flatironschool.com/career-courses/data-science-bootcamp/online/) October Cohort are as follows:
+
+From [Danyal](https://github.com/DanyalAndriano) on Thursday, April 11 in the afternoon on slack, she came up with:
+
+```python
+import itertools
+def solution(A):
+    return any(sum(combination) == 17 for combination in itertools.combinations(A, 2))
+    ```
+
+## Thursday, April 11, 2019 <a class="anchor" id="thursday-april-11"></a>
+### Solution Posted Friday, April 12, 2019 -- 12:00 PM
+#### Solution Posted & Formatted By: [Andrew Wester](https://github.com/steeznation16)
+#### Solution Credit to [Andrew](https://github.com/steeznation16)
+
+I have not found any other solutions for this, but this is the exact solution I used for my coding challenge that I was given.  Please feel free to add your own options for solutions!
+
+```python
+def solution(A):
+    count = 0
+    heads = 0
+    tails = 0
+    for i in A:
+        if i == 0:
+            heads += 1
+        else:
+            tails += 1
+    print("Total Heads: {}".format(heads))
+    print("Total Tails: {}".format(tails))
+    if heads > tails:
+        return tails
+    elif heads < tails:
+        return heads
+    else:
+        return (heads + tails // 2)
+    ```
