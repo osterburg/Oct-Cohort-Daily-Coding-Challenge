@@ -36,20 +36,32 @@
 ---
 
 ## Friday, April 12, 2019 -- 11:30 AM <a class="anchor" id="friday-april-12-3"></a>
-### Solution Posted: Friday, April 12, 2019 -- 10:30AM PST
+### Solution Posted: Friday, April 12, 2019 -- 11:30AM PST
 #### Solution Posted & Formatted By: [Stephan](https://github.com/osterburg)
 
-The solution was posted by [Danyal](https://github.com/DanyalAndriano) in the group slack channel on Friday, April 12. 
+The solution was posted by [Danyal](https://github.com/DanyalAndriano) and [Stephan](https://github.com/osterburg) in the group slack channel on Friday, April 12. 
 
 
 ```python
 import numpy as np
+from operator import mul
+from functools import reduce
 
-def list_prod(l):
-    return [np.prod([a for a in l if a != i]) for i in l]
+def list_prod_np(l):
+    return [np.prod([a for a in l if a != i], dtype=int) for i in l]
 
-l = [1, 2, 3, 4, 5]
-print(list_prod(l))
+def list_prod_mul(l):
+    return [reduce(mul, [a for a in l if a != i]) for i in l]
+
+
+l = [70, 60, 64, 54, 63, 34, 89, 93, 86, 45]
+
+# 67.5 µs ± 227 ns per loop (mean ± std. dev. of 7 runs, 10000 loops each)
+print(list_prod_np(l))
+
+# 14.8 µs ± 106 ns per loop (mean ± std. dev. of 7 runs, 100000 loops each)
+print(list_prod_mul(l))
+
 ```
 
 ---
