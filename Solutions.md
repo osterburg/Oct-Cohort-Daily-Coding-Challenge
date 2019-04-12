@@ -36,10 +36,22 @@
 ---
 
 ## Friday, April 12, 2019 -- 11:30 AM <a class="anchor" id="friday-april-12-3"></a>
-### Solution Posted:
-#### Solution Posted & Formatted By: 
+### Solution Posted: Friday, April 12, 2019 -- 10:30AM PST
+#### Solution Posted & Formatted By: [Stephan](https://github.com/osterburg)
 
----
+The solution was posted by [Danyal](https://github.com/DanyalAndriano) in the group slack channel on Friday, April 12. 
+
+
+```python
+import numpy as np
+
+def list_prod(l):
+    return [np.prod([a for a in l if a != i]) for i in l]
+
+l = [1, 2, 3, 4, 5]
+print(list_prod(l))
+```
+
 ---
 
 ## Friday, April 12, 2019 -- 9:00 AM <a class="anchor" id="friday-april-12-2"></a>
