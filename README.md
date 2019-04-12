@@ -10,6 +10,8 @@
 Some interesting data science interview questions that I’ve faced are:
 1) How would I design a function that takes in a string (mathematical) and solves the expression
 2) Given a list of words write a loop to find anagrams in the list. Ex: `anagram_finder(['bat', 'tab', 'cat', 'this', that']) -> ['bat', 'tab']`
+3) What is a p-value?
+4) What is the difference between random forest and gradient boosting?
 
 ## Friday, April 12, 2019 -- 9:00 AM
 *Posted by [Andrew Wester](https://github.com/steeznation16) on Friday, April 12 at 9:00 AM*
