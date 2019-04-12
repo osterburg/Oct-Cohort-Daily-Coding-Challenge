@@ -41,6 +41,8 @@
 
 The solution was posted by [Danyal](https://github.com/DanyalAndriano) and [Stephan](https://github.com/osterburg) in the group slack channel on Friday, April 12. 
 
+Here is a link to [stackoverflow](https://stackoverflow.com/a/2105155/5983691) solutions to multiply elements in list. But be aware of `overflow encountered in long_scalars` error, see [stackoverflow](https://stackoverflow.com/questions/39089618/why-is-numpy-prod-incorrectly-returning-negative-results-or-0-for-my-long-li/).
+
 
 ```python
 import numpy as np
