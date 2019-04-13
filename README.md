@@ -20,6 +20,8 @@ class ListNode(object):
  		self.next = None
 ```
 
+The following [blog](https://medium.com/@kojinoshiba/data-structures-in-python-series-1-linked-lists-d9f848537b4d) helps explaining what a linked list is.
+
 ---
 
 ## Saturday, April 13, 2019
