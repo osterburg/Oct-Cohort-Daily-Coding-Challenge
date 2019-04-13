@@ -2,6 +2,26 @@
 
 #### Most Recent Update: Friday, April 12 -- 12:00 PM EST
 
+##  Sunday, April 14, 2019
+*Posted by [Stephan](https://github.com/osterburg) on Friday, April 12 at 5:30 PM*
+
+*Credit to [Stephan](https://github.com/osterburg) for posting to Slack*
+
+Given a singly linked list of integers `l` and an integer `k`, remove all elements from list `l` that have a value equal to `k`.
+
+Example:
+For `l = [3, 1, 2, 3, 4, 5]` and `k = 3`, the output should be `removeKFromList(l, k) = [1, 2, 4, 5]`;
+
+```python
+# Definition for singly-linked list:
+class ListNode(object):
+ 	def __init__(self, x):
+		self.value = x
+ 		self.next = None
+```
+
+---
+
 ## Saturday, April 13, 2019
 *Posted by [Andrew Wester](https://github.com/steeznation16) on Friday, April 12, at 11:30 AM*
 
