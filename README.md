@@ -1,6 +1,38 @@
 # Daily Challenges Posted Here
 
-#### Most Recent Update: Friday, April 12 -- 12:00 PM EST
+#### Most Recent Update: Wed, April 17 -- 4:30 PM PST
+
+## Wednesday, April 17, 2019
+*Posted by [Stephan](https://github.com/osterburg) on Friday, April 17 at 4:30 PM*
+
+Consider a special family of Engineers and Doctors. This family has
+the following rules:
+
+Everybody has two children.
+The first child of an Engineer is an Engineer and the second child is a Doctor.
+The first child of a Doctor is a Doctor and the second child is an Engineer.
+All generations of Doctors and Engineers start with an Engineer.
+We can represent the situation using this diagram:
+
+             -- E --
+           /         \
+          E           D
+        /   \        /  \
+       E     D      D    E
+      / \   / \    / \   / \
+     E   D D   E  D   E E   D
+
+Given the level and position of a person in the ancestor tree above, find the
+profession of the person.
+
+Note: in this tree first child is considered as left child, second - as right.
+
+Example
+
+For level = 3 and pos = 3, the output should be
+findProfession(level, pos) = "Doctor".
+
+---
 
 ##  Sunday, April 14, 2019
 *Posted by [Stephan](https://github.com/osterburg) on Friday, April 12 at 5:30 PM*
@@ -55,7 +87,7 @@ For example, if our input was [1, 2, 3, 4, 5], the expected output would be [120
 
 *Credit to the [Daily Coding Problem](https://www.dailycodingproblem.com/) on their website on Friday morning*
 
-**Question (note: this question was asked by [Amazon.com](amazon.com)):** 
+**Question (note: this question was asked by [Amazon.com](amazon.com)):**
 
 There's a staircase with N steps, and you can climb 1 or 2 steps at a time. Given N, write a function that returns the number of unique ways you can climb the staircase. The order of the steps matters.
 
